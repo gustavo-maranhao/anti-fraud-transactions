@@ -5,7 +5,7 @@ The model analyzes transaction data to identify potential fraudulent activities 
 
 ## Project Overview:
 
-1. The database is loaded from a CSV file hosted in the repository;
+1. The database is loaded from a CSV file hosted in the repository (file "database.csv");
 2. The BIN* column is created by extracting the first six digits from the card number;
 3. The percentage of chargebacks per BIN is calculated and descriptive statistics are displayed;
 4. A histogram is plotted to visualize the distribution of chargeback percentages per BIN;
