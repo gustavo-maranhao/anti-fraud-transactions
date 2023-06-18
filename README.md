@@ -1,6 +1,6 @@
 # Anti-Fraud Transaction Detection Model
 
-This project implements a simple anti-fraud transaction detection model using Python and pandas. 
+This project implements a simple anti-fraud transaction detection model using Python. 
 The model analyzes transaction data to identify potential fraudulent activities based on predefined rules.
 
 ## Project Overview:
